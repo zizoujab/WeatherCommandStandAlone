@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/console": "^6.3",
+        "symfony/http-client": "^6.3"
+    }
+}
